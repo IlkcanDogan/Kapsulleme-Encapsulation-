@@ -1,0 +1,12 @@
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\bin\Debug\ClassEncapsulation.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\obj\Debug\ClassEncapsulation.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\bin\Debug\ClassEncapsulation.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\bin\Debug\ClassEncapsulation.pdb
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\obj\Debug\ClassEncapsulation.exe
+c:\users\mka\documents\visual studio 2012\Projects\ClassEncapsulation\ClassEncapsulation\obj\Debug\ClassEncapsulation.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\bin\Debug\ClassEncapsulation.exe.config
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\obj\Debug\ClassEncapsulation.exe
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\obj\Debug\ClassEncapsulation.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\obj\Debug\ClassEncapsulation.csprojResolveAssemblyReference.cache
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\bin\Debug\ClassEncapsulation.exe
+C:\Users\MKA\Desktop\C# Sınıflar\2) Kapsulleme\ClassEncapsulation\bin\Debug\ClassEncapsulation.pdb
